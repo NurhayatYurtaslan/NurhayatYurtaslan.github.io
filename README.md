@@ -1,3 +1,3 @@
-# NurhayatYurtaslan.github.io
+NurhayatYurtaslan.github.io
 
 for website
